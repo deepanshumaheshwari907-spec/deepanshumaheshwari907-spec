@@ -6,6 +6,12 @@
 
 <div align="center">
 
+![Visitors](https://komarev.com/ghpvc/?username=deepanshumaheshwari907-spec&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Hey+I'm+Deepanshu+👋;AI%2FML+Developer+%7C+IIST+Indore;Hackathon+Builder+%7C+Team+OrbitX;Building+Intelli-Credit+🚀)](https://git.io/typing-svg)
 
 </div>
@@ -40,6 +46,10 @@
 </div>
 
 ---
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepanshumaheshwari907-spec&theme=tokyo-night&bg_color=transparent&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 Trophies
 
