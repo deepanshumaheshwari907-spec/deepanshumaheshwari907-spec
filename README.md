@@ -45,6 +45,10 @@
 
 </div>
 
+## 📊 GitHub Metrics
+
+![Metrics](https://raw.githubusercontent.com/deepanshumaheshwari907-spec/deepanshumaheshwari907-spec/github-metrics/github-metrics.svg)
+
 ---
 
 ### 📈 Activity Graph
