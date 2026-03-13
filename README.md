@@ -57,8 +57,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=deepanshumaheshwari907-spec&theme=radical&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=deepanshumaheshwari907-spec&theme=tokyonight&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <div align="center">
 
