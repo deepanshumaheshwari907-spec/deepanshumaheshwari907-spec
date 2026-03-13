@@ -57,8 +57,9 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=deepanshumaheshwari907-spec&theme=tokyonight&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+### 🏆 Trophies
+
+[![Trophies](https://github-trophies.vercel.app/?username=deepanshumaheshwari907-spec&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)</div>
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
