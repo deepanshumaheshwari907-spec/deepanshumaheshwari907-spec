@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=Deepanshu&fontSize=70&fontColor=fff&fontAlign=50&fontAlignY=38&desc=AI%2FML+Developer+%7C+IIST+Indore+%7C+Team+OrbitX&descAlign=50&descAlignY=56)
+
+</div>
 
 <div align="center">
 
@@ -42,5 +46,10 @@
 <div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=deepanshumaheshwari907-spec&theme=radical&row=1&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
