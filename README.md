@@ -53,3 +53,9 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/deepanshumaheshwari907-spec/deepanshumaheshwari907-spec/output/github-contribution-grid-snake-dark.svg)
+
+</div>
