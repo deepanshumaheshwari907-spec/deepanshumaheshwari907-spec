@@ -46,9 +46,7 @@
 </div>
 
 ## 📊 GitHub Metrics
-
-![Metrics](https://raw.githubusercontent.com/deepanshumaheshwari907-spec/deepanshumaheshwari907-spec/github-metrics/github-metrics.svg)
-
+![Metrics](https://raw.githubusercontent.com/deepanshumaheshwari907-spec/deepanshumaheshwari907-spec/main/github-metrics.svg)
 ---
 
 ### 📈 Activity Graph
