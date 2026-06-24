@@ -1,79 +1,74 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=Deepanshu&fontSize=70&fontColor=fff&fontAlign=50&fontAlignY=38&desc=AI%2FML+Developer+%7C)
+# 🚀 Hi, I'm Deepanshu Maheshwari 👋
+### AI/ML Developer | Building Intelligent Products & Scalable Backend Systems
 
-![Visitors](https://komarev.com/ghpvc/?username=deepanshumaheshwari907-spec&color=blueviolet&style=flat-square&label=Profile+Views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4EF2D2&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+the+making...;Building+Intelli-Credit+%F0%9F%A4%96;Hackathon+Builder+%F0%9F%8F%86;Turning+Data+into+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Hey+I'm+Deepanshu+👋;AI%2FML+Developer+%7C+IIST+Indore;Hackathon+Builder+%7C+Team+OrbitX;Building+Intelli-Credit+🚀)](https://git.io/typing-svg)
+---
 
+   <p align="center">
+      <a href="https://linkedin.com/in/deepanshu-maheshwari" target="_blank">
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:deepanshumaheshwari907@gmail.com">
+         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+   </p>
 </div>
 
 ---
 
-### 🚀 About Me
-- 🎓 Student at **IIST Indore**
-- 🤖 Working on **Intelli-Credit** — AI-powered corporate credit engine
-- 🏆 Finalist at **YUVAAN Hackathon** by Vivriti Capital @ IIT Hyderabad
-- 💡 Passionate about AI/ML, Data Science, and Backend Development
+## 🌌 About Me
+
+- 🎓 **Student** at **IIST Indore** — majorly focusing on cutting-edge AI technologies.
+- 🤖 **Core Project:** Building **Intelli-Credit** — an advanced, AI-powered corporate credit engine.
+- 🏆 **Achievements:** Finalist at **YUVAAN Hackathon** by *Vivriti Capital @ IIT Hyderabad*.
+- ⚡ **Obsession:** Training models, optimizing backend pipelines, and building scalable systems.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Universe
 
-| Category | Tools / Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Backend & Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Tools & Platforms** | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-
-[![Trophies](https://github-trophies.vercel.app/?username=deepanshumaheshwari907-spec&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📊 GitHub Analytics & Stats
-
-<div align="center">
-
-| GitHub Stats | Streak Stats |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=deepanshumaheshwari907-spec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepanshumaheshwari907-spec&theme=tokyonight&hide_border=true) |
-
-</div>
-
-<br>
-
-<div align="center">
-
-#### 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepanshumaheshwari907-spec&theme=tokyo-night&bg_color=transparent&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-#### 🐍 Contribution Snake Animation
-![Snake](https://raw.githubusercontent.com/deepanshumaheshwari907-spec/deepanshumaheshwari907-spec/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 🤝 Connect with Me
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepanshu-maheshwari)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshumaheshwari907@gmail.com)
-
-</div>
-
----
+## 📊 Telemetry & Analytics (God Mode)
 
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepanshumaheshwari907-spec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshumaheshwari907-spec&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshumaheshwari907-spec&layout=compact&theme=tokyonight&langs_count=6"/>
 </div>
+
+---
+
+## 📈 Activity Graph
+
+```waka
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepanshumaheshwari907-spec&theme=tokyonight)
