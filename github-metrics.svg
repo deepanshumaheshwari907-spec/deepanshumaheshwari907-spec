@@ -34,8 +34,8 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="181.7184582369499" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="181.7184582369499" y="0" width="161.26306401716784" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="342.98152225411775" y="0" width="98.53515788300214" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="441.5166801371199" y="0" width="12.75828432875338" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.27496446587327" y="0" width="5.689362057913659" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.96432652378695" y="0" width="0.03567347621303754" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.44850560301106" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="180.44850560301106" y="0" width="163.35080877566418" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="343.7993143786752" y="0" width="97.84653778076722" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="441.6458521594424" y="0" width="12.669122132766033" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.31497429220843" y="0" width="5.649601538256058" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.9645758304645" y="0" width="0.03542416953545485" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2272,6 +2272,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2293,7 +2298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepanshumaheshwari907-spec/AetherWatch-ISRO</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cyclone &amp; convective-threat monitoring dashboard built on INSAT satellite data using ML — inspired by ISRO hackathon problem</div>
