@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.29786647048005" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="174.29786647048005" y="0" width="134.65385322788302" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="308.95171969836304" y="0" width="112.13356630494758" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="421.08528600331067" y="0" width="34.569799521795105" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="455.6550855251058" y="0" width="4.3178407209858385" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.9729262460916" y="0" width="0.02707375390840537" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="173.1245441690515" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="173.1245441690515" y="0" width="133.32125371835133" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="306.4457978874028" y="0" width="114.34692229317226" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="420.7927201805751" y="0" width="34.905364714837624" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="455.6980848954127" y="0" width="4.275109285612177" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.9731941810249" y="0" width="0.026805818975132685" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2297,6 +2297,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2318,7 +2323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deepanshumaheshwari907-spec/ai-resume-assistant</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI-powered career workspace for resume analysis, ATS scoring, job matching, application preparation, tracking, and analytics.</div>
